@@ -1,0 +1,5 @@
+python -m venv project1_venv
+source project1_venv/Scripts/activate ou project1_venv\Scripts\activate
+pip install -r requeriments.txt
+deactivate
+
