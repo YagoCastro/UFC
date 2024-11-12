@@ -1,0 +1,11 @@
+#192a56 (azul marinho)
+#40739e (azul mais claro)
+#dcdde1 (cinza claro)
+
+#7f8fa6 (cinza mais escuro)
+
+
+#353b48 (Preto)
+
+##e1b12c(Amarelo)
+
