@@ -1,4 +1,4 @@
-#192a56 (azul marinho)
+#0a1f44 (azul marinho)
 #40739e (azul mais claro)
 #dcdde1 (cinza claro)
 
